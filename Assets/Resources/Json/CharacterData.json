@@ -1,0 +1,11 @@
+{
+  "characters": [
+    {
+      "id": "1st",
+      "name":"1st",
+      "prefab":"Player/1st",
+      "power":1,
+      "defaultWeapon":"punch"
+    }
+  ]
+}

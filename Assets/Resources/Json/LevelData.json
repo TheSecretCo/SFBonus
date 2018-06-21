@@ -1,0 +1,139 @@
+{
+  "levelData": [
+    {
+      "level": 1,
+      "objects": [
+        {
+          "number": 1,
+          "prefab": "Objects/vehicle01",
+          "attackPoints": [
+            {
+              "name": "mainAttackPoint",
+              "hp": 100,
+              "type":"Normal"
+            },
+            {
+              "name": "weakPoint1",
+              "hp": 20,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint2",
+              "hp": 35,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint3",
+              "hp": 45,
+              "type":"Weak"
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "prefab": "Objects/vehicle02",
+          "attackPoints": [
+            {
+              "name": "mainAttackPoint",
+              "hp": 100,
+              "type":"Normal"
+            },
+            {
+              "name": "weakPoint1",
+              "hp": 20,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint2",
+              "hp": 35,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint3",
+              "hp": 45,
+              "type":"Weak"
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "prefab": "Objects/vehicle01",
+          "attackPoints": [
+            {
+              "name": "mainAttackPoint",
+              "hp": 100,
+              "type":"Normal"
+            },
+            {
+              "name": "weakPoint1",
+              "hp": 20,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint2",
+              "hp": 35,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint3",
+              "hp": 45,
+              "type":"Weak"
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "prefab": "Objects/vehicle02",
+          "attackPoints": [
+            {
+              "name": "mainAttackPoint",
+              "hp": 100,
+              "type":"Normal"
+            },
+            {
+              "name": "weakPoint1",
+              "hp": 20,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint2",
+              "hp": 35,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint3",
+              "hp": 45,
+              "type":"Weak"
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "prefab": "Objects/vehicle01",
+          "attackPoints": [
+            {
+              "name": "mainAttackPoint",
+              "hp": 100,
+              "type":"Normal"
+            },
+            {
+              "name": "weakPoint1",
+              "hp": 20,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint2",
+              "hp": 35,
+              "type":"Weak"
+            },
+            {
+              "name": "weakPoint3",
+              "hp": 45,
+              "type":"Weak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

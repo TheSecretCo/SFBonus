@@ -1,0 +1,17 @@
+{
+  "weapons": [
+    {
+      "id": "punch",
+      "prefab":"Weapons/Punch",
+      "projectile": "punch"
+    }
+  ],
+  "projectiles": [
+    {
+      "id": "punch",
+      "prefab":"Projectiles/Punch",
+      "power": 1,
+      "speed": 1
+    }
+  ]
+}
